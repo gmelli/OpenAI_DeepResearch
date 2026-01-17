@@ -1,5 +1,9 @@
 # OpenAI Deep Research Implementation
 
+> **Status**: 🟡 DORMANT (completed feature - 2025-09-25)
+>
+> This project is feature-complete and not under active development. Maintained for reference and potential future use.
+
 A comprehensive research system implementing **two complementary OpenAI approaches** for automated research: custom OpenAI Agents orchestration and native Deep Research API integration.
 
 ## 📖 Introduction
